@@ -1,5 +1,7 @@
 <html>
 <h1 al="center">This title is centered</h1>
-<p><a href="https://github.com/scottriege/knes381/blob/main/readme1.md">Look at readme1.md</a>  </p>
+
+
+<p><a href="https://github.com/scottriege/knes381/blob/main/images/IMG_3091.jpg">look at this cool lego set I have!</a>  </p>
 </html>
 
