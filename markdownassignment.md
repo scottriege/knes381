@@ -3,7 +3,7 @@
 <p>Here is a photo of my dog being cute </p>
 <p align="left">
     Here is a photo of my dog being cute
-    <img src="IMG_1273.jpg" alt="Description" width="150" style="float: right; margin-left: 10px;">
+    <img src="/images/IMG_1273.jpg" alt="Description" width="150" style="float: right; margin-left: 10px;">
 </p>
 
 <p><a href="/images/IMG_3091.jpg">Look at this cool lego set I have!</a>  </p>
