@@ -1,6 +1,6 @@
 <html>
-<h1 al="center">This title is centered</h1>
-<p>Here is a photo of my dog being cute </p>
+<h1 align="center">This title is centered</h1>
+
 <p align="left">
     Here is a photo of my dog being cute
     <img src="/images/IMG_1273.jpg" alt="Description" width="150" style="float: right; margin-left: 10px;">
